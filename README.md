@@ -1,1 +1,1 @@
-# SIstem-Informasi-Klinik
+# Sistem-Informasi-Klinik
